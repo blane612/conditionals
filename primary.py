@@ -78,7 +78,7 @@ print('\n' + 'Task 3' + '\n')
 #       5. Otherwise, print 'Lose!'
 #
 # WRITE CODE BELOW #
-
+dice1 = randint(1, 6)
 
 
 
